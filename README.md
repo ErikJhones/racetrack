@@ -1,2 +1,2 @@
-# racetrack
-Here have the chain code racetrack generator
+# The source code will be avaliable soon
+
